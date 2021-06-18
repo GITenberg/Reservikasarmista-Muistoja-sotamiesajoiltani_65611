@@ -1,5 +1,8 @@
 _repo: Reservikasarmista-Muistoja-sotamiesajoiltani_65611
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ivalo, Santeri
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65611#Reservikasarmista-Muistoja-sotamiesajoiltani
 gutenberg_issued: '2021-06-13'
 gutenberg_type: Text
 identifiers:
